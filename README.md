@@ -5,3 +5,10 @@
 python format_convert.py -I ./data/ -O ./output/
 python format_convert.py -i ./data/aa.wav -O ./output/
 ~~~
+
+
+## Some packages need to be installed
+
+~~~bash
+./install.sh
+~~~
